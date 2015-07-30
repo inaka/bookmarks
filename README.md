@@ -10,3 +10,4 @@ A collection of bookmarks for Inakos
 
 ## Great blog posts
 - [On Unit Tests and generally testing your software](http://www.yegor256.com/2015/07/16/fools-dont-write-unit-tests.html)
+- [Doing Terrible Things to Your Code](http://blog.codinghorror.com/doing-terrible-things-to-your-code/) (a.k.a. _learning about QA_)
