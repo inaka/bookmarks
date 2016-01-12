@@ -14,4 +14,4 @@ A collection of bookmarks for Inakos
 
 ## Learning material
 - [Free programming books] (https://github.com/vhf/free-programming-books) 
-
+- [How To Be A Programmer] (https://github.com/braydie/HowToBeAProgrammer)
