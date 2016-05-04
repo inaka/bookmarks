@@ -12,6 +12,7 @@ A collection of bookmarks for Inakos
 ## Great blog posts
 - [On Unit Tests and generally testing your software](http://www.yegor256.com/2015/07/16/fools-dont-write-unit-tests.html)
 - [Doing Terrible Things to Your Code](http://blog.codinghorror.com/doing-terrible-things-to-your-code/) (a.k.a. _learning about QA_)
+- [Why most mobile development projects fail] (http://clean-swift.com/mobile-development-projects-fail/)
 
 ## Learning material
 - [Free programming books] (https://github.com/vhf/free-programming-books) 
