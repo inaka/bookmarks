@@ -8,6 +8,7 @@ A collection of bookmarks for Inakos
 ## Useful tools and links
 - [The art of command line] (https://github.com/jlevy/the-art-of-command-line)
 - [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Git Tips](https://github.com/git-tips/tips)
 
 ## Great blog posts
 - [On Unit Tests and generally testing your software](http://www.yegor256.com/2015/07/16/fools-dont-write-unit-tests.html)
