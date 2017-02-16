@@ -17,6 +17,7 @@ A collection of bookmarks for Inakos
 - [Doing Terrible Things to Your Code](http://blog.codinghorror.com/doing-terrible-things-to-your-code/) (a.k.a. _learning about QA_)
 - [Why most mobile development projects fail] (http://clean-swift.com/mobile-development-projects-fail/)
 - [About Deadlines / Estimates](https://keen.io/blog/143850394061/how-should-deadlines-be-used-in-software)
+- [Best Practices for a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 ## Learning material
 - [Free programming books] (https://github.com/vhf/free-programming-books) 
