@@ -6,6 +6,7 @@ A collection of bookmarks for Inakos
 - [Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.kjths7g5p)
 - [Code Review - Are we too busy to improve?](https://swifting.io/blog/2016/04/18/13-code-review-are-we-too-busy-to-improve/)
 - [Code Review in Remote Teams](https://www.seanh.cc/posts/code-review)
+- [Coding Standards Horror Story](http://www.lhotka.net/weblog/CodingStandardsHorrorStory.aspx)
  
 ## Useful tools and links
 - [The art of command line] (https://github.com/jlevy/the-art-of-command-line)
